@@ -4,8 +4,8 @@ Badminton Player Management System is a program that allow users to manage playe
 
 # Table of Contents
 
-### 1. [Project Overview](#Project-Overview)
-### 2. Explanation of how Python concepts, libraries, etc. were applied
+* [Project Overview](#project-overview)
+* [Explanation of how Python concepts, libraries, etc. were applied](#Explanation-of-how-Python-concepts,-libraries,-etc.-were-applied)
 - Object-Oriented Programming (OOP)
 - Data Structures
 - Input Validation
