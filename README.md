@@ -16,7 +16,7 @@ Badminton Player Management System is a program that allow users to manage playe
    - [Gender Statistics](#gender-statistics)
    - [Error Handling](#error-handling)
    - [Main Program Execution](#main-program-execution)
-4. [Details of the chosen SDG and its integration into the project](#details-of-the-chosen-sdg-and-its-integration-into-the-project)
+4. [SDG 5: Gender Equality](#sdg-5:-gender-equality)
 
 # l. Project Overview
 The Badminton Player Management System is a console-based application designed to help manage and maintain a list of badminton players. This system allows administrators to add, view, update, delete, and search for players based on unique identifiers. It also includes a feature to display gender statistics, showing the number of male and female players in the system. The system is designed to be user-friendly, offering a simple menu interface to perform various actions related to player data management.
@@ -55,3 +55,17 @@ Exit the System
 
 ### String Manipulation
 5.1 String Formatting: Python's string formatting (f"...") is used to generate readable and user-friendly output when displaying player details. This helps present player information in a clear, readable format.
+
+### Control Flow
+6.1 Conditional Statements: if-else statements are used to check conditions, such as whether a player is found during the search or update process. For example, if the user enters an invalid ID, the system informs the user that no such player exists.
+
+### Gender Statistics
+7.1 Gender Statistics: The show_gender_statistics() method counts and displays the number of male and female players. This is done using Python's sum() function combined with list comprehensions. It iterates over the self.players list and counts the gender occurrences.
+
+### Error Handling
+8.1 Try-Except: Error handling is employed to prevent the program from crashing due to invalid input. For example, if a user enters a non-integer value for the player’s age or rank, the program will catch the error and ask for the input again. This ensures the program remains robust.
+
+### Main Program Execution
+9.1 The system starts by creating an instance of the BadmintonPlayerManagementSystem class and calling the run() method, which keeps the system running and waiting for user input.
+
+# lV. SDG 5: Gender Equality
