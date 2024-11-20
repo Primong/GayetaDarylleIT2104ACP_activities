@@ -7,15 +7,15 @@ Badminton Player Management System is a program that allow users to manage playe
 1. [Project Overview](#project-overview)
 2. [Features](#features)
 3. [Explanation of how Python concepts, libraries, etc. were applied](#Explanation-of-how-Python-concepts,-libraries,-etc.-were-applied)
-- [Object-Oriented Programming (OOP)](#object-oriented-programming-(oop))
-- [Data Structures](#data-structures)
-- [Input Validation](#input-validation)
-- [Methods and Functions](#methods-and-functions)
-- [String Manipulation](#string-manipulation)
-- [Control Flow](#control-flow)
-- [Gender Statistics](
-- [Error Handling]
-- [Main Program Execution]
+   - [Object-Oriented Programming (OOP)](#object-oriented-programming-(oop))
+   - [Data Structures](#data-structures)
+   - [Input Validation](#input-validation)
+   - [Methods and Functions](#methods-and-functions)
+   - [String Manipulation](#string-manipulation)
+   - [Control Flow](#control-flow)
+   - [Gender Statistics](#gender-statistics)
+   - [Error Handling](#error-handling)
+   - [Main Program Execution](#main-program-execution)
 4. [Details of the chosen SDG and its integration into the project](#details-of-the-chosen-sdg-and-its-integration-into-the-project)
 
 # l. Project Overview
