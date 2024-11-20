@@ -17,6 +17,7 @@ Badminton Player Management System is a program that allow users to manage playe
    - [Error Handling](#error-handling)
    - [Main Program Execution](#main-program-execution)
 4. [SDG 5 Gender Equality](#sdg-5-gender-equality)
+5. [Instructions for running the program](#instructions-for-running-the-program)
 
 # l. Project Overview
 The Badminton Player Management System is a console-based application designed to help manage and maintain a list of badminton players. This system allows administrators to add, view, update, delete, and search for players based on unique identifiers. It also includes a feature to display gender statistics, showing the number of male and female players in the system. The system is designed to be user-friendly, offering a simple menu interface to perform various actions related to player data management.
@@ -69,3 +70,12 @@ Exit the System
 9.1 The system starts by creating an instance of the BadmintonPlayerManagementSystem class and calling the run() method, which keeps the system running and waiting for user input.
 
 # lV. SDG 5 Gender Equality
+The Sustainable Development Goal (SDG) chosen for integration into the Badminton Player Management System is SDG 5: Gender Equality.
+
+- **Target**: Achieve gender equality and empower all women and girls.
+- **Goal**: End all forms of discrimination against women and girls everywhere, eliminate violence, and ensure equal participation in leadership and decision-making processes. This goal also emphasizes equal access to education, healthcare, decent work, and the benefits of economic development for all genders.
+- **Purpose**: The system’s ability to track and report on gender statistics could be used by sports organizations to assess gender equality within the sport. For example, if a sports federation notices that there are significantly fewer female players, they may decide to implement programs to encourage more women to participate in badminton.
+- **Impact**: This can guide the development of programs that focus on improving female participation in badminton, encouraging sports authorities to create gender-specific training programs, leagues, or funding opportunities to increase female representation.
+- **Promoting Female Athlete Participation**: Through visible gender statistics, the system could also promote initiatives that encourage more female athletes to enter competitive badminton, thus advancing gender equality in the sport.
+
+# V. Instructions for running the program
