@@ -16,7 +16,7 @@ Badminton Player Management System is a program that allow users to manage playe
    - [Gender Statistics](#gender-statistics)
    - [Error Handling](#error-handling)
    - [Main Program Execution](#main-program-execution)
-4. [SDG 5: Gender Equality](#sdg-5:-gender-equality)
+4. [SDG 5 Gender Equality](#sdg-5-gender-equality)
 
 # l. Project Overview
 The Badminton Player Management System is a console-based application designed to help manage and maintain a list of badminton players. This system allows administrators to add, view, update, delete, and search for players based on unique identifiers. It also includes a feature to display gender statistics, showing the number of male and female players in the system. The system is designed to be user-friendly, offering a simple menu interface to perform various actions related to player data management.
@@ -68,4 +68,4 @@ Exit the System
 ### Main Program Execution
 9.1 The system starts by creating an instance of the BadmintonPlayerManagementSystem class and calling the run() method, which keeps the system running and waiting for user input.
 
-# lV. SDG 5: Gender Equality
+# lV. SDG 5 Gender Equality
